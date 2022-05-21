@@ -1,0 +1,10 @@
+{
+    "admin": [
+        "get-admin-by-id",
+        "create-admin",
+        "create-pharmacy"
+    ],
+    "pharmacy":[
+        "get-pharmacy-by-id"
+    ]
+}
